@@ -5,18 +5,6 @@ echo "Fill the array with the original folders first"
 # use ls -d */ > list to get the list of the created githubs and copy/paste in
 
 directories=(
-carli-1/
-carli-10/
-carli-11/
-carli-12/
-carli-2/
-carli-3/
-carli-4/
-carli-5/
-carli-6/
-carli-7/
-carli-8/
-carli-9/
 carli-calamares-config/
 carli-calamares-qml-config/
 carli-cinnamon-config/
